@@ -1,6 +1,6 @@
 <img align="center"
-            src="https://komarev.com/ghpvc/?username=Circut-Studios-LTDstyle=plastic"
-            alt="quantum-llc" /> 
+            src="https://komarev.com/ghpvc/?username=circut-studios-ltd&style=plastic"
+            alt="circut-studios-ltd" /> 
             
 <hr>
 <h3 align="center">Hey!</h3>
